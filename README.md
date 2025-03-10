@@ -1,6 +1,4 @@
 # Task_1_Profile_Card
-# Task 1: Profile Card
-
 This project is a simple Profile Card created using HTML and CSS. It showcases a profile image, social media icons, and basic styling.
 
 ## 🛠️ Tech Stack
